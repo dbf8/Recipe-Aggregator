@@ -1,16 +1,14 @@
 [
-    {
-        "title": "a",
-        "description": "b",
-        "instructions": "c",
-        "ingredients": "d"
-    },
-    {
-        "title": "e",
-        "description": "f",
-        "instructions": "f",
-        "ingredients": "h"
-    }
-
+  {
+    "title": "Oatmeal Cookie",
+    "description": "Sweet",
+    "instructions": "Make Cookie",
+    "ingredients": "Love"
+  },
+  {
+    "title": "Lemonade",
+    "description": "Sour and Sweet",
+    "instructions": "Squeeze lemon, add sugar",
+    "ingredients": "lemon and sugar"
+  }
 ]
-
