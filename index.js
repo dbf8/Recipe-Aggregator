@@ -4,7 +4,7 @@ const app = express()
 app.set("view engine", "hbs")
 
 app.get('/', (req, res) => {
-  res.send('Hello World')
+  res.send('hello')
 })
 
 app.listen(4000, () => {
