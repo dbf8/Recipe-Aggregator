@@ -1,4 +1,4 @@
-const mongoose = require('./connection')
+const mongoose = require('../db/connection')
 
 const RecipeSchema = new mongoose.Schema({
   title: String,
